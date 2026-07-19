@@ -12,7 +12,7 @@ Mother &amp; Child Platform projesi "Normal mi?" Akıllı Asistanı için geliş
 | Oluşturulma tarihi | *(doldurulacak)* |
 | Ortam | OpenAI Assistants Platform (v2) |
 
-# NORMALMI-AI — README
+# NORMALMI-AI 
 
 **Proje:** "Normal mi?" Akıllı Asistanı — Karalabs Mother & Child Platform
 **Görev tanımı:** Hibrit (Karma) yapay zeka mimarisi — OpenAI Assistants Platform
